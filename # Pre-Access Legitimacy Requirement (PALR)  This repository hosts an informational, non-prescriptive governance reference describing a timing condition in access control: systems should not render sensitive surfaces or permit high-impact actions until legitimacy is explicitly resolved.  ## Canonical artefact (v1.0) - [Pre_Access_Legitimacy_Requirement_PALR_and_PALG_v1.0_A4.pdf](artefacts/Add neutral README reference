@@ -1,0 +1,8 @@
+# Pre-Access Legitimacy Requirement (PALR)
+
+This repository hosts an informational, non-prescriptive governance reference describing a timing condition in access control: systems should not render sensitive surfaces or permit high-impact actions until legitimacy is explicitly resolved.
+
+## Canonical artefact (v1.0)
+- [Pre_Access_Legitimacy_Requirement_PALR_and_PALG_v1.0_A4.pdf](artefacts/Pre_Access_Legitimacy_Requirement_PALR_and_PALG_v1.0_A4.pdf)
+
+Notes: This material does not prescribe implementation, replace existing controls, or assert compliance sufficiency.
